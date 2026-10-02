@@ -5,3 +5,7 @@ nos normes et responsabilité d'application
 porté, application:
 directives d'application:
 attribution:
+Enforcement Responsibilities",
+"Scope", 
+"Enforcement Guidelines"
+"Attribution
